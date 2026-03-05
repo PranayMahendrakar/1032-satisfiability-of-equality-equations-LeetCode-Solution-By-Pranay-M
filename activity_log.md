@@ -7,3 +7,4 @@
 - [2026-03-05T12:12:05Z] docs: update README with usage examples
 - [2026-03-05T20:24:50Z] docs: update README with usage examples
 - [2026-03-05T08:13:03Z] test: add unit tests for core module
+- [2026-03-05T22:43:46Z] feat: add helper utility function
